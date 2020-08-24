@@ -13,7 +13,7 @@ Rode npm start nas pastas backend e frontend para utilizar a versão web. Acesse
 
 Rode npm start nas pastas backend e mobile, acesse localhost:19002, leia o QR Code no seu celular e utilize o aplicativo rocketseat Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
-<img src="./.github/61b75980-7097-11ea-8e56-c72cc2f088d7.jpeg" />
+<img src="https://github.com/Scherpel/be-the-hero/blob/master/61b75980-7097-11ea-8e56-c72cc2f088d7.jpeg?raw=true" />
 
 
 
